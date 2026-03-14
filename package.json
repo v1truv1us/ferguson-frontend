@@ -5,7 +5,7 @@
   "author": "Ruben Harutyunyan <vagr9k@gmail.com>",
   "dependencies": {
     "font-awesome": "^4.7.0",
-    "gatsby": "^2.18.17",
+    "gatsby": "^5.16.1",
     "gatsby-image": "^2.2.37",
     "gatsby-plugin-catch-links": "^2.1.21",
     "gatsby-plugin-feed": "^2.3.25",
@@ -45,7 +45,7 @@
   },
   "devDependencies": {
     "cli-glob": "^0.1.0",
-    "eslint": "^5.16.0",
+    "eslint": "^10.0.3",
     "eslint-config-airbnb": "^17.1.1",
     "eslint-config-prettier": "^4.3.0",
     "eslint-plugin-import": "^2.19.1",
@@ -56,7 +56,7 @@
     "remark-cli": "^6.0.1",
     "remark-preset-lint-recommended": "^3.0.3",
     "stylefmt": "^6.0.3",
-    "stylelint": "^10.1.0",
+    "stylelint": "^17.4.0",
     "stylelint-config-standard": "^18.3.0",
     "write-good": "^1.0.2"
   },
